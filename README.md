@@ -1,2 +1,2 @@
 # Business-Analyst-Report
-2 Case : Ticketing Kiosk for Gabtoli Bus-terminal &amp; QR-Based Ordering System
+Case: 1. Ticketing Kiosk for Gabtoli Bus-terminal &amp; 2. QR-Based Ordering System
